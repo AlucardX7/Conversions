@@ -37,10 +37,10 @@ public class Main {
         convesiones5.imprimirEuros();
 
  
+//test
 
-
-         Ejemplo ejemplo = new Ejemplo();
-         ejemplo.operaciones();
+//         Ejemplo ejemplo = new Ejemplo();
+//         ejemplo.operaciones();
          
 //         System.out.println("Suma: "+ejemplo.operaciones(5,4));
 //         
