@@ -14,6 +14,8 @@ import javax.swing.*;
  
  */
 public class Ejemplo {
+    
+    public int test=0;
 
     public void operaciones() {
 
@@ -33,7 +35,7 @@ public class Ejemplo {
         JOptionPane.showMessageDialog(null, "La suma es: " +suma (numero1, numero2));
         JOptionPane.showMessageDialog(null, "La suma es: " +resta (numero1, numero2));
 
-    
+    //test
     
     }
     
