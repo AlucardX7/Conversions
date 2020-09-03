@@ -42,12 +42,12 @@ public class Main {
          Ejemplo ejemplo = new Ejemplo();
          ejemplo.operaciones();
          
-         System.out.println("Suma: "+ejemplo.suma(5,4));
-         
-        
-
-         int resta=ejemplo.resta(10,7);
-         System.out.println("Resta: "+resta);
+//         System.out.println("Suma: "+ejemplo.operaciones(5,4));
+//         
+//        
+//
+//         int resta=ejemplo.resta(10,7);
+//         System.out.println("Resta: "+resta);
          
          
     }
