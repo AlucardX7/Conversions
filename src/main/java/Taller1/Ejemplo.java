@@ -16,6 +16,7 @@ import javax.swing.*;
 public class Ejemplo {
     
     public int test=0;
+     public int test2=0;
 
     public void operaciones() {
 
